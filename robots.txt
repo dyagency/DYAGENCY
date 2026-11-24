@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dyagency.github.io/DYAGENCY/sitemap.xml
